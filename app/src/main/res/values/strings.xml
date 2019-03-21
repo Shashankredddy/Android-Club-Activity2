@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Intent</string>
+    <string name="action_settings">Settings</string>
+    <string name="send">SEND</string>
+    <string name="reply">REPLY</string>
+    <string name="title_activity__two">activity_Two</string>
+</resources>
